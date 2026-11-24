@@ -1,0 +1,28 @@
+{
+ "sources": [
+  {
+   "id": "pravo-amur",
+   "kind": "legislation",
+   "name": {
+    "en": "Amur Oblast: Official Internet Portal of Legal Information (region28)",
+    "ru": "Amur Oblast: Официальный интернет-портал правовой информации (region28)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region28",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/amur/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-amur-law",
+   "group": "pravo"
+  }
+ ]
+}
