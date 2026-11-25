@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:41:11Z",
+ "generated": "2026-11-25T06:57:52Z",
  "latest": {
   "pravo-amur|russia/amur/acts": {
    "attempt": 1,
@@ -13,88 +13,42 @@
    },
    "census": {
     "checked": 1944,
-    "current": 1929,
+    "current": 1944,
     "gone": 0,
-    "held": 1929,
-    "newest_in_repo": "2026-10-01",
-    "pending": 15,
-    "repo": 1929,
+    "held": 1944,
+    "newest_in_repo": "2026-11-23",
+    "pending": 0,
+    "repo": 1944,
     "source_in_scope": 1944
    },
-   "check_id": "ru-pravo-amur-20261124T123705Z",
-   "commits": {
-    "count": 4,
-    "from": "1ae5fe96feb666a466e69277690c35698aa89883",
-    "to": "f78424b4e3fe340ec1ef52843e5e7f623d7ce34d"
-   },
+   "check_id": "ru-pravo-amur-20261125T051421Z",
+   "commits": null,
    "corpus": "russia/amur/acts",
    "error": null,
-   "finished": "2026-11-24T12:41:10Z",
+   "finished": "2026-11-25T05:15:06Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region28: 1944 law-type documents listed (every page read); 1929 held here; 15 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region28: 1944 law-type documents listed (every page read); 1944 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "2800202611020001",
-     "2800202611020002",
-     "2800202611120001",
-     "2800202611120003",
-     "2800202611120005",
-     "2800202611120006",
-     "2800202611120007",
-     "2800202611120008",
-     "2800202611120009",
-     "2800202611120021",
-     "2800202611120023",
-     "2800202611120025",
-     "2800202611120026",
-     "2800202611120033",
-     "2800202611230003"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "requests": 13,
-   "runner": "lawwatch russia (a5c4306c67)",
+   "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "2800202611020001",
-     "2800202611020002",
-     "2800202611120001",
-     "2800202611120003",
-     "2800202611120005",
-     "2800202611120006",
-     "2800202611120007",
-     "2800202611120008",
-     "2800202611120009",
-     "2800202611120021",
-     "2800202611120023",
-     "2800202611120025",
-     "2800202611120026",
-     "2800202611120033",
-     "2800202611230003"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1944 law-type documents in block region28; newest published 2026-11-23",
    "source": "pravo-amur",
-   "started": "2026-11-24T12:37:05Z",
+   "started": "2026-11-25T05:14:21Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 3,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
