@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Amur Oblast only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-25 05:15 UTC, Amur Oblast: Official Internet Portal of Legal Information (region28): 13 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-26 05:17 UTC, Amur Oblast: Official Internet Portal of Legal Information (region28): 13 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Amur Oblast: Official Internet Portal of Legal Information (region28)](http://publication.pravo.gov.ru/documents/block/region28) | `zakony-<year>/` | daily | 2026-11-25 05:15 UTC | no change | watched |
+| [Amur Oblast: Official Internet Portal of Legal Information (region28)](http://publication.pravo.gov.ru/documents/block/region28) | `zakony-<year>/` | daily | 2026-11-26 05:17 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 05:16](checks/2026-11.md#ru-pravo-amur-20261126t051648z) | pravo-amur | 13 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 05:14](checks/2026-11.md#ru-pravo-amur-20261125t051421z) | pravo-amur | 13 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-24 12:37](checks/2026-11.md#ru-pravo-amur-20261124t123705z) | pravo-amur | 13 | 15 | 0 | 0 | 0 (0) | changes found | [4](https://github.com/lexifina/russia-amur-law/compare/1ae5fe96feb6...f78424b4e3fe) |
 
