@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:07:30Z",
+ "generated": "2026-11-28T06:21:51Z",
  "latest": {
   "pravo-amur|russia/amur/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1944,
     "source_in_scope": 1944
    },
-   "check_id": "ru-pravo-amur-20261127T051239Z",
+   "check_id": "ru-pravo-amur-20261128T052056Z",
    "commits": null,
    "corpus": "russia/amur/acts",
    "error": null,
-   "finished": "2026-11-27T05:13:31Z",
+   "finished": "2026-11-28T05:21:47Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region28: 1944 law-type documents listed (every page read); 1944 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1944 law-type documents in block region28; newest published 2026-11-23",
    "source": "pravo-amur",
-   "started": "2026-11-27T05:12:39Z",
+   "started": "2026-11-28T05:20:56Z",
    "unexplained": 0,
    "update": {
     "parts": []
